@@ -4,7 +4,7 @@
 
 List of parsers:
 
-1.Mathematical parser.
-2.Advanced mathematical parser.
-3.Url parser.
+1.Mathematical parser. 
+2.Advanced mathematical parser. 
+3.Url parser. 
 4.Mail parser.
